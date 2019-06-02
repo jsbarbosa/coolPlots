@@ -16,4 +16,4 @@ https://matplotlib.org/gallery/index.html
 
 - [Hillshading](https://matplotlib.org/gallery/mplot3d/custom_shaded_3d_surface.html)
 
--[3D voxel plot](https://matplotlib.org/gallery/mplot3d/voxels_numpy_logo.html#sphx-glr-gallery-mplot3d-voxels-numpy-logo-py)
+- [3D voxel plot](https://matplotlib.org/gallery/mplot3d/voxels_numpy_logo.html#sphx-glr-gallery-mplot3d-voxels-numpy-logo-py)
