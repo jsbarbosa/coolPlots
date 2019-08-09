@@ -19,3 +19,5 @@ https://matplotlib.org/gallery/index.html
 - [3D voxel plot](https://matplotlib.org/gallery/mplot3d/voxels_numpy_logo.html#sphx-glr-gallery-mplot3d-voxels-numpy-logo-py)
 
 - [The Python Graph Gallery](https://python-graph-gallery.com/)
+
+- [Word Cloud](https://www.datacamp.com/community/tutorials/wordcloud-python)
